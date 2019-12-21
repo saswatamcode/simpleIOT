@@ -12,7 +12,7 @@ A simple internet of things application made using iOS and a Raspberry Pi. The a
 
 ## To Run
 - Visit Firebase's official website and go to console
-- Create a new application and select iOS to setup this project
+- Create a new application and select iOS to setup this project and follow instructions
 - Download the `GoogleService-Info.plist` and move it to the project directory
 - Create a new realtime database with led as a child and an empty string as it's key
 - Clone repo using Xcode Source Control
