@@ -10,6 +10,10 @@
 # SimpleIOT
 A simple internet of things application made using iOS and a Raspberry Pi. The application allows you to remotely turn an led on/off through the net. Uses Firebase
 
+## Screenshots
+
+![Screenshot-on!](screenshots/Screenshot-on.png) ![Screenshot-off!](screenshots/Screenshot-off.png)
+
 ## To Run
 - Visit Firebase's official website and go to console
 - Create a new application and select iOS to setup this project and follow instructions
